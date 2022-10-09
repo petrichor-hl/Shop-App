@@ -1,16 +1,48 @@
 # shop_app
 
-A new Flutter project.
+Highlight: 🤖
+- [Firebase: Realtime Database][0]
+- State Management: [provider 6.0.3][1]
+- User Authentication
+- Animation (Updating)
 
-## Getting Started
+Feature: 🍁
+- Make favorite products
+- Add product to cart
+- Swipe item to remove it from cart
+- Checkout cart
+- View order history
+- Add, remove, edit your own products
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+- Overview
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<p align="center">
+    <img src="screenshots/01.jpg" width="25%" vspace=10 hspace=10/>
+    <img src="screenshots/02.jpg" width="25%" vspace=10 hspace=10/>
+    <img src="screenshots/03.jpg" width="25%" vspace=10 hspace=10/>
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Drawer
+
+<p align="center">
+    <img src="screenshots/04.jpg" width="25%" vspace=10 hspace=10/>
+</p>
+
+- Add, edit, remove
+
+<p align="center">
+    <img src="screenshots/05.jpg" width="25%" vspace=10 hspace=10/>
+    <img src="screenshots/06.jpg" width="25%" vspace=10 hspace=10/>
+    <img src="screenshots/07.jpg" width="25%" vspace=10 hspace=10/>
+</p>
+
+---
+
+<img src="https://storage.googleapis.com/cms-storage-bucket/408fbcae5f0f5916b429.png" alt="Flutter"/>
+
+[0]: https://firebase.google.com/
+[1]: https://pub.dev/packages/provider
+
+
